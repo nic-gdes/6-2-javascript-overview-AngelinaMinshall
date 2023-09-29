@@ -32,7 +32,11 @@ z = x + y;
 
 
 // 1.5 Assignment: Brackets, Braces and Parentheses
-
+var a = function(){
+    alert('Statement 1');
+   alert('Statement 2');
+}
+      
 // 1.6 Assignment: Data Types
 
 // 1.7 Assignment: Practicing JavaScript basics
