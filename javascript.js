@@ -33,10 +33,23 @@ z = x + y;
 
 // 1.5 Assignment: Brackets, Braces and Parentheses
 var a = function(){
+    console.log(a);
     alert('Statement 1');
    alert('Statement 2');
 }
-      
+     
 // 1.6 Assignment: Data Types
+var a = "Angelina"; //string//
+console.log (a);
+var b = 21; //number//
+console.log (b);
+var c = true; //boolen//
+console.log (c);
+
 
 // 1.7 Assignment: Practicing JavaScript basics
+ var a = 4;
+ var b = 3;
+ var c = 5;
+ var area = (b * a / 2);
+ console.log(area);
